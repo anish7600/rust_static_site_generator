@@ -11,3 +11,5 @@
 <img src="./about.png" alt="drawing" width="400"/>
 
 > This project was casually coded.
+
+ > Minor Changes: Code-level and component-level documentation has been added.
